@@ -4,6 +4,17 @@ A modern and responsive Tic-Tac-Toe game built with **React** and **Vite**. Chal
 
 ---
 
+## 📦 Deployment
+
+The application is deployed on **Vercel**.
+
+Live URL:
+
+https://tic-tac-toe-git-main-shreya-ranjans-projects.vercel.app/
+
+---
+
+
 ## 🚀 Features
 
 - 🎮 Play Tic-Tac-Toe against the CPU
